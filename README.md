@@ -1,0 +1,2 @@
+# PiGetter_for_PiSTARTER
+PiSTARTERからGitHubに公開されたSmileBASICソースを直接入手するツール
